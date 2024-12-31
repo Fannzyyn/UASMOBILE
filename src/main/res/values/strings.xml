@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListFilm</string>
+    <string name="judul_1">Judul 1</string>
+    <string name="judul_2">Judul 2</string>
+    <string name="judul_3">Judul 3</string>
+    <string name="judul_4">Judul 4</string>
+</resources>
